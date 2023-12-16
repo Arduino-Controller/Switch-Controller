@@ -26,6 +26,7 @@
     <li> 세종대학교 전자정보통신공학과 공민성
     <it> 세종대학교 호텔관광경영학과 김나홍
     <li> 세종대학교 나노신소재공학과 노은서
+    <li> 세종대학교 전자정보통신공학과 박상욱
 </ul>
 
 ### 기술 스택
@@ -34,6 +35,14 @@
 ### 개발 기능
 - 조이스틱 컨트롤러 이동
 - 아이템 사용 기능
+- dsf
 
 ### 컨트롤러 시연
-<img src = "">
+<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EC%8B%A4%EB%AC%BC.jpg?raw=true" style="transform:rotate(270deg);" width=400>
+<p>
+<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%8B%9C%EC%97%B0.jpg?raw=true" width=500>
+<br>
+<a href="https://youtu.be/Cs2A7J0btR0">
+    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+</a>
+
