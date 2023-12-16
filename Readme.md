@@ -38,7 +38,7 @@
 - dsf
 
 ### 컨트롤러 시연
-<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EC%8B%A4%EB%AC%BC.jpg?raw=true" style="transform:rotate(270deg);" width=400>
+<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EC%8B%A4%EB%AC%BC.jpg?raw=true" width=400>
 <p>
 <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%8B%9C%EC%97%B0.jpg?raw=true" width=500>
 <br>
