@@ -33,9 +33,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 개발 기능
-- 조이스틱 컨트롤러 이동
-- 아이템 사용 기능
-- dsf
+- 아두이로 레오나르도 활용 키보드 제어
+- 조이스틱 이용하여 WASD 키 입력
+- 4개의 버튼을 이용하여 NUM 1, NUM 2, ctrl, Space 키 입력
 
 ### 컨트롤러 실물 및 시연 이미지
 <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.jpg?raw=true" width=500>
